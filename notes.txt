@@ -91,7 +91,7 @@ ANSWER:It can make website interactive by responding to user actions , validatin
 
 12. Are JavaScript and Java the same language?
 
-ANSWER:No they are not same regardless having same name but both do different functions and even having different syntax .
+ANSWER:No they are not same regardless having same name but both of them do different functions and even having different syntax .
 
 ======================================================================
 
