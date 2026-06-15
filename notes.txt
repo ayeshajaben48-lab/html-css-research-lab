@@ -5,13 +5,13 @@ PART 1: HTML
 
 1. In your own words, what kind of things can HTML put on a web page?
 
-ANSWER:
+ANSWER: HTML can put text , headings. images , links and many other content on web page .
 
 ======================================================================
 
 2. What does HTML stand for?
 
-ANSWER:
+ANSWER: Hypertext Markup Language .
 
 ======================================================================
 
@@ -19,11 +19,11 @@ ANSWER:
 
 Which tag did you choose?
 
-ANSWER:
+ANSWER: I choose <img>
 
 What does that tag do?
 
-ANSWER:
+ANSWER: The <img> tag is used to display image on web page .
 
 ======================================================================
 
@@ -31,7 +31,7 @@ ANSWER:
 
 <p>Hello world!</p>
 
-ANSWER:
+ANSWER: There are two one is opening tag <p> and other is closing tag </p> .
 
 ======================================================================
 
@@ -40,19 +40,23 @@ ANSWER:
 
 <h1>Welcome to my website</h1>
 
-ANSWER:
+ANSWER: opening tag <h1>
+content: Welcome to my website
+closing tag :</h1>
 
 ======================================================================
 
 6. How does a closing tag differ from an opening tag?
 
-ANSWER:
+ANSWER: closing tag contains a forward slash / . so like opening tag it starts an element while closing tag ends it .
+
 
 ======================================================================
 
 7. What is the difference between a tag and an element
 
-ANSWER:
+ANSWER:Tag is like code inside angle brackets like <p> while , an element it contains both opening and closing tag including content too .
+e.g:<p>Hello world</p>
 
 ======================================================================
 
@@ -60,20 +64,20 @@ PART 2: CSS
 
 8. In your own words, what is the main job of CSS?
 
-ANSWER:
+ANSWER: CSS is technically used for designing web pages like color, font , spacing and layout.
 
 ======================================================================
 
 9. What does CSS stand for?
 
 
-ANSWER:
+ANSWER: Cascading Style Sheet.
 
 ======================================================================
 
 10. A developer can put CSS in a separate CSS file.  Why might this be helpful when building a website?
 
-ANSWER:
+ANSWER:using seprate css file keeps the code organized and makes it easier to change design of multiple webpages from only one space .
 
 ======================================================================
 
@@ -81,13 +85,13 @@ PART 3: JAVASCRIPT CONNECTION
 
 11. In your own words, what can JavaScript do?
 
-ANSWER:
+ANSWER:It can make website interactive by responding to user actions , validating forms and by creating dynamic effects.
 
 ======================================================================
 
 12. Are JavaScript and Java the same language?
 
-ANSWER:
+ANSWER:No they are not same regardless having same name but both do different functions and even having different syntax .
 
 ======================================================================
 
